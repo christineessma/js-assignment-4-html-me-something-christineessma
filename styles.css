@@ -1,1 +1,29 @@
-/* Write your CSS here! */
+body {
+    width: 70%;
+    border: 15px;
+    padding: 30px;
+    margin: 8px;
+    display: block;
+    background-color: linen
+}
+
+img {
+    max-width: 80%;
+    height: auto;
+}
+
+#mainHeading {
+    color:red;
+
+}
+
+.funParagraph {
+    color:green;
+}
+
+header {
+    text-align: center;
+}
+main {
+    text-align: center;
+}
